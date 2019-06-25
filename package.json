@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/tracker-app-ui",
-  "version": "1.70.0-common-ui-pkg-prod",
+  "version": "1.70.1-common-ui-pkg-prod",
   "description": "Base for modules in node.",
   "main": "./dist/index.js",
   "repository": "github.com:vicjicaman/tracker-app-ui.git",
@@ -60,7 +60,7 @@
   },
   "dependencies": {
     "performance-now": "^2.1.0",
-    "@nebulario/tracker-app-events": "link:./../tracker-app-events",
+    "@nebulario/tracker-app-events": "1.70.4-common-ui-pkg-prod",
     "moment": "^2.22.1"
   },
   "peerDependencies": {
