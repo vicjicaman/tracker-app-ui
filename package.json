@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/tracker-app-ui",
-  "version": "1.70.0-common-ui-pkg-prod",
+  "version": "1.70.2-common-ui-pkg-prod",
   "description": "Base for modules in node.",
   "main": "./dist/index.js",
   "repository": "github.com:vicjicaman/tracker-app-ui.git",
