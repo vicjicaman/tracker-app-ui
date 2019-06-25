@@ -2,9 +2,12 @@
 # yarn lockfile v1
 
 
-"@nebulario/tracker-app-events@link:../tracker-app-events":
-  version "0.0.0"
-  uid ""
+"@nebulario/tracker-app-events@1.70.3-common-ui-pkg-prod":
+  version "1.70.3-common-ui-pkg-prod"
+  resolved "https://registry.yarnpkg.com/@nebulario/tracker-app-events/-/tracker-app-events-1.70.3-common-ui-pkg-prod.tgz#5dff2b5cf3d17c9263928f88e12d90f8aeb5b5dc"
+  integrity sha512-4ypkAhXGC2aa5pYoofwCjL583H/m5GLN75YyflQjYWiQWYX8gnBq68J1AJu9nGIsCMO+U30jzqcArHSAtaIJxw==
+  dependencies:
+    performance-now "^2.1.0"
 
 abbrev@1:
   version "1.1.1"
